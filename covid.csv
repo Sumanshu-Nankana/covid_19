@@ -1,0 +1,213 @@
+country,total_cases,new_cases,total_deaths,new_deaths,total_recovered,active_cases,serious_critical,total_tests
+USA,"561,159",+859,"22,133",+28,"33,122","505,904","11,770","2,845,135"
+Spain,"169,496","+2,665","17,489",+280,"64,727","87,280","7,371","600,000"
+Italy,"156,363",nan,"19,899",nan,"34,211","102,253","3,343","1,010,193"
+France,"132,591",nan,"14,393",nan,"27,186","91,012","6,845","333,807"
+Germany,"127,854",nan,"3,022",nan,"64,300","60,532","4,895","1,317,887"
+UK,"88,621","+4,342","11,329",+717,nan,"76,948","1,559","367,667"
+Iran,"73,303","+1,617","4,585",+111,"45,983","22,735","3,877","275,427"
+Turkey,"56,956",nan,"1,198",nan,"3,446","52,312","1,665","376,100"
+Belgium,"30,589",+942,"3,903",+303,"6,707","19,979","1,234","102,151"
+Netherlands,"26,551",+964,"2,823",+86,250,"23,478","1,384","115,992"
+Switzerland,"25,623",+208,"1,129",+23,"12,700","11,794",386,"193,800"
+Canada,"24,804",+421,717,nan,"7,172","16,915",557,"422,200"
+Brazil,"22,318",+126,"1,241",+18,173,"20,904",296,"62,985"
+Russia,"18,328","+2,558",148,+18,"1,470","16,710",8,"1,300,000"
+Portugal,"16,934",+349,535,+31,277,"16,122",188,"163,616"
+Austria,"14,013",+68,368,+18,"7,343","6,302",239,"148,412"
+Israel,"11,235",+90,110,+7,"1,689","9,436",181,"117,339"
+Sweden,"10,948",+465,919,+20,381,"9,648",859,"54,700"
+S. Korea,"10,537",+25,217,+3,"7,447","2,873",55,"514,621"
+Ireland,"9,655",nan,334,nan,25,"9,296",194,"72,000"
+India,"9,240",+35,331,nan,"1,096","7,813",nan,"189,111"
+Chile,"7,525",+312,82,+2,"2,367","5,076",387,"85,035"
+Peru,"7,519",nan,193,nan,"1,798","5,528",134,"76,506"
+Ecuador,"7,466",nan,333,nan,501,"6,632",184,"23,635"
+Japan,"7,370",nan,123,nan,784,"6,463",129,"77,381"
+Poland,"6,674",nan,232,nan,439,"6,003",160,"138,007"
+Romania,"6,633",+333,318,+2,914,"5,401",231,"67,204"
+Norway,"6,527",+2,131,+3,32,"6,364",59,"127,305"
+Australia,"6,359",+46,61,+2,"3,494","2,804",79,"362,136"
+Denmark,"6,318",+144,285,+12,"2,235","3,798",100,"72,099"
+Czechia,"5,991",nan,139,+1,467,"5,385",87,"128,359"
+Pakistan,"5,374",+144,93,+2,"1,095","4,186",44,"65,114"
+Saudi Arabia,"4,934",+472,65,+6,805,"4,064",59,"115,585"
+Philippines,"4,932",+284,315,+18,242,"4,375",1,"33,814"
+Malaysia,"4,817",+134,77,+1,"2,276","2,464",66,"81,730"
+Mexico,"4,661",+442,296,+23,"1,843","2,522",185,"36,594"
+Indonesia,"4,557",+316,399,+26,380,"3,778",nan,"27,075"
+UAE,"4,123",nan,25,+3,852,"3,246",1,"648,195"
+Serbia,"4,054",+424,85,+5,400,"3,569",138,"20,958"
+Panama,"3,400",nan,87,nan,29,"3,284",106,"15,147"
+Luxembourg,"3,281",nan,66,nan,500,"2,715",30,"29,165"
+Qatar,"3,231",+252,7,nan,334,"2,890",37,"50,828"
+Dominican Republic,"3,167",+200,177,+4,152,"2,838",147,"9,275"
+Ukraine,"3,102",+325,93,+10,97,"2,912",45,"32,496"
+Finland,"3,064",+90,59,+3,300,"2,705",74,"46,000"
+Belarus,"2,919",+341,29,+3,203,"2,687",55,"68,000"
+Colombia,"2,776",nan,109,nan,270,"2,397",92,"41,765"
+Thailand,"2,579",+28,40,+2,"1,288","1,251",61,"71,860"
+Singapore,"2,532",nan,8,nan,560,"1,964",31,"72,680"
+Argentina,"2,208",+66,96,+6,468,"1,644",83,"19,758"
+South Africa,"2,173",nan,25,nan,410,"1,738",7,"80,085"
+Greece,"2,114",nan,98,nan,269,"1,747",76,"42,261"
+Egypt,"2,065",nan,159,nan,589,"1,317",nan,"25,000"
+Algeria,"1,914",nan,293,nan,591,"1,030",60,"3,359"
+Morocco,"1,746",+85,120,+2,196,"1,430",1,"8,952"
+Moldova,"1,712",+50,35,+4,107,"1,570",80,"6,271"
+Iceland,"1,701",nan,8,nan,889,804,10,"35,253"
+Croatia,"1,650",+50,25,+2,400,"1,225",34,"17,790"
+Hungary,"1,458",+48,109,+10,120,"1,229",58,"34,819"
+Iraq,"1,352",nan,76,nan,640,636,nan,"35,415"
+New Zealand,"1,349",+19,5,+1,546,798,4,"62,827"
+Bahrain,"1,348",+212,6,nan,591,751,4,"65,768"
+Estonia,"1,332",+23,27,+2,102,"1,203",9,"30,764"
+Kuwait,"1,300",+66,2,+1,150,"1,148",26,nan
+Slovenia,"1,212",+7,55,+2,152,"1,005",34,"35,405"
+Azerbaijan,"1,148",+50,12,+1,289,847,27,"66,677"
+Lithuania,"1,062",+9,24,+1,101,937,14,"41,503"
+Armenia,"1,039",+26,14,+1,211,814,30,"7,631"
+Bosnia and Herzegovina,"1,030",+21,39,nan,206,785,4,"11,612"
+Hong Kong,"1,010",+5,4,nan,397,609,13,"96,709"
+Kazakhstan,979,+28,12,+2,138,829,21,"69,304"
+Uzbekistan,934,+69,4,nan,85,845,8,"70,000"
+North Macedonia,854,+26,38,+4,44,772,15,"8,552"
+Cameroon,820,nan,12,nan,98,710,nan,nan
+Bangladesh,803,+182,39,+5,42,722,1,"11,223"
+Slovakia,769,+27,2,nan,107,660,5,"28,750"
+Oman,727,+128,4,nan,124,599,3,nan
+Diamond Princess,712,nan,11,nan,619,82,10,nan
+Tunisia,707,nan,31,nan,43,633,89,"11,238"
+Bulgaria,685,+10,32,+3,71,582,36,"18,502"
+Cuba,669,nan,18,nan,92,559,11,"15,057"
+Afghanistan,665,+58,21,+3,32,612,nan,nan
+Latvia,655,+4,5,nan,16,634,2,"28,776"
+Andorra,646,+8,29,nan,128,489,17,"1,673"
+Cyprus,633,nan,11,nan,65,557,8,"17,923"
+Lebanon,632,+2,20,nan,80,532,34,"15,408"
+Costa Rica,595,nan,3,nan,56,536,14,"6,762"
+Ivory Coast,574,nan,5,nan,85,484,nan,nan
+Ghana,566,nan,8,nan,4,554,2,"37,954"
+Niger,529,nan,12,nan,75,442,nan,"4,353"
+Burkina Faso,497,nan,27,nan,161,309,nan,nan
+Uruguay,480,nan,8,+1,231,241,15,"8,774"
+Albania,467,+21,23,nan,232,212,7,"4,070"
+Channel Islands,431,nan,9,nan,48,374,nan,"3,320"
+Kyrgyzstan,419,+42,5,nan,67,347,5,"9,618"
+Honduras,397,+4,25,nan,7,365,10,"1,600"
+Taiwan,393,+5,6,nan,114,273,nan,"47,215"
+Jordan,389,nan,7,nan,201,181,5,"20,500"
+Réunion,389,nan,nan,nan,40,349,3,nan
+Malta,384,+6,3,nan,44,337,4,"18,065"
+San Marino,356,nan,35,nan,53,268,14,846
+Bolivia,330,+30,27,+3,2,301,3,"2,185"
+Mauritius,324,nan,9,nan,42,273,3,"7,077"
+Nigeria,323,nan,10,nan,85,228,2,"5,000"
+Senegal,291,+11,2,nan,178,111,1,nan
+Palestine,290,nan,2,nan,58,230,nan,"17,329"
+Montenegro,273,+1,3,nan,5,265,7,"2,869"
+Georgia,266,+9,3,nan,67,196,6,"3,271"
+Vietnam,265,+3,nan,nan,145,120,8,"121,821"
+Guinea,250,nan,nan,nan,17,233,nan,nan
+DRC,235,+1,20,nan,17,198,nan,nan
+Isle of Man,232,+4,2,nan,131,99,13,"2,030"
+Sri Lanka,214,+4,7,nan,56,151,1,"4,525"
+Djibouti,214,nan,2,nan,36,176,nan,"4,451"
+Kenya,208,+11,9,+1,40,159,2,"8,123"
+Mayotte,196,nan,3,nan,59,134,3,"1,350"
+Faeroe Islands,184,nan,nan,nan,157,27,nan,"5,509"
+Venezuela,181,nan,9,nan,93,79,6,"181,335"
+Martinique,157,+2,6,nan,50,101,19,nan
+Guatemala,155,nan,5,nan,19,131,3,"1,134"
+Paraguay,147,+13,6,nan,22,119,1,"3,394"
+Guadeloupe,143,nan,8,nan,67,68,13,nan
+El Salvador,137,+12,6,nan,22,109,2,"6,729"
+Brunei,136,nan,1,nan,107,28,2,"10,167"
+Gibraltar,129,nan,nan,nan,84,45,1,"1,558"
+Rwanda,126,nan,nan,nan,25,101,nan,"1,966"
+Cambodia,122,nan,nan,nan,77,45,1,"5,768"
+Trinidad and Tobago,113,nan,8,nan,16,89,nan,"1,126"
+Madagascar,106,nan,nan,nan,20,86,1,nan
+Mali,105,nan,9,nan,22,74,nan,nan
+Monaco,93,nan,1,nan,6,86,5,nan
+Aruba,92,nan,nan,nan,32,60,1,"1,145"
+French Guiana,86,nan,nan,nan,51,35,1,nan
+Liechtenstein,79,nan,1,nan,55,23,nan,900
+Togo,76,nan,3,nan,29,44,nan,"2,532"
+Ethiopia,74,+3,3,nan,14,57,nan,"4,110"
+Jamaica,72,nan,4,nan,16,52,nan,907
+Barbados,71,nan,4,nan,11,56,4,805
+Congo,60,nan,5,nan,5,50,nan,nan
+Bermuda,57,nan,4,nan,29,24,2,416
+Gabon,57,+8,1,nan,1,55,nan,nan
+Uganda,54,nan,nan,nan,4,50,nan,"5,025"
+Cayman Islands,53,nan,1,nan,6,46,3,536
+French Polynesia,53,nan,nan,nan,nan,53,1,889
+Liberia,51,+1,6,+1,4,41,nan,nan
+Sint Maarten,50,nan,9,nan,5,36,2,134
+Bahamas,47,+1,8,nan,6,33,1,nan
+Tanzania,46,+14,3,nan,7,36,nan,nan
+Guyana,45,nan,6,nan,8,31,3,193
+Macao,45,nan,nan,nan,10,35,1,nan
+Zambia,43,nan,2,nan,30,11,1,"1,239"
+Myanmar,41,nan,4,nan,2,35,nan,"1,406"
+Guinea-Bissau,38,nan,nan,nan,nan,38,nan,"1,500"
+Benin,35,nan,1,nan,5,29,nan,nan
+Eritrea,34,nan,nan,nan,nan,34,nan,nan
+Haiti,33,nan,3,nan,nan,30,nan,365
+Saint Martin,32,nan,2,nan,11,19,5,nan
+Somalia,25,nan,2,+1,2,21,2,nan
+Syria,25,nan,2,nan,5,18,nan,nan
+Libya,25,nan,1,nan,9,15,nan,535
+Antigua and Barbuda,23,+2,2,nan,nan,21,1,40
+Equatorial Guinea,21,nan,nan,nan,3,18,nan,854
+Mozambique,21,nan,nan,nan,2,19,nan,683
+Maldives,20,nan,nan,nan,14,6,nan,nan
+Angola,19,nan,2,nan,4,13,nan,nan
+Sudan,19,nan,2,nan,4,13,nan,nan
+Laos,19,nan,nan,nan,nan,19,nan,"1,140"
+Chad,18,nan,nan,nan,2,16,nan,nan
+New Caledonia,18,nan,nan,nan,1,17,nan,"2,608"
+Mongolia,17,+1,nan,nan,4,13,nan,nan
+Malawi,16,+3,2,nan,nan,14,1,314
+Dominica,16,nan,nan,nan,8,8,nan,345
+Fiji,16,nan,nan,nan,nan,16,nan,nan
+Namibia,16,nan,nan,nan,3,13,nan,362
+Saint Lucia,15,nan,nan,nan,4,11,nan,nan
+Zimbabwe,14,nan,3,nan,nan,11,nan,563
+Belize,14,nan,2,nan,nan,12,1,364
+Curaçao,14,nan,1,nan,8,5,nan,nan
+Nepal,14,+2,nan,nan,1,13,nan,"5,184"
+Grenada,14,nan,nan,nan,nan,14,2,92
+Eswatini,14,nan,nan,nan,7,7,nan,nan
+Botswana,13,nan,1,nan,nan,12,nan,"3,115"
+Saint Kitts and Nevis,12,nan,nan,nan,nan,12,nan,216
+St. Vincent Grenadines,12,nan,nan,nan,1,11,nan,56
+CAR,11,+3,nan,nan,3,8,nan,nan
+Greenland,11,nan,nan,nan,11,0,nan,912
+Montserrat,11,+2,nan,nan,1,10,1,36
+Seychelles,11,nan,nan,nan,nan,11,nan,nan
+Cabo Verde,10,+2,1,nan,1,8,nan,nan
+Suriname,10,nan,1,nan,4,5,nan,nan
+Sierra Leone,10,nan,nan,nan,nan,10,nan,nan
+MS Zaandam,9,nan,2,nan,nan,7,nan,nan
+Gambia,9,nan,1,nan,2,6,nan,281
+Nicaragua,9,nan,1,nan,4,4,nan,nan
+Turks and Caicos,9,nan,1,nan,nan,8,nan,62
+Vatican City,8,nan,nan,nan,2,6,nan,nan
+Mauritania,7,nan,1,nan,2,4,nan,496
+St. Barth,6,nan,nan,nan,4,2,nan,nan
+Western Sahara,6,nan,nan,nan,nan,6,nan,nan
+Burundi,5,nan,1,+1,nan,4,nan,nan
+Bhutan,5,nan,nan,nan,2,3,nan,"1,166"
+Falkland Islands,5,nan,nan,nan,1,4,nan,137
+Sao Tome and Principe,4,nan,nan,nan,nan,4,nan,19
+South Sudan,4,nan,nan,nan,nan,4,nan,nan
+Timor-Leste,4,+2,nan,nan,1,3,nan,nan
+Anguilla,3,nan,nan,nan,1,2,nan,nan
+British Virgin Islands,3,nan,nan,nan,2,1,nan,nan
+Caribbean Netherlands,3,nan,nan,nan,nan,3,nan,10
+Papua New Guinea,2,nan,nan,nan,nan,2,nan,72
+Saint Pierre Miquelon,1,nan,nan,nan,nan,1,nan,nan
+Yemen,1,nan,nan,nan,nan,1,nan,nan
+China,"82,160",+108,"3,341",+2,"77,663","1,156",121,nan
