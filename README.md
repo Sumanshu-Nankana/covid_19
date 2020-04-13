@@ -5,7 +5,7 @@ It fetches the data from https://www.worldometers.info/coronavirus/
 
 - It Fetches Total Number of Active Cases
 - Total Deaths
-- Active/Deaths Contry wise
+- Active/Deaths Country wise
 - Create a CSV file
 - Plot the active and Death cases country wise
 
